@@ -1,0 +1,7 @@
+C:\Users\54926\source\repos\MementoPattern\MementoPattern\obj\Debug\MementoPattern.csproj.AssemblyReference.cache
+C:\Users\54926\source\repos\MementoPattern\MementoPattern\obj\Debug\MementoPattern.csproj.CoreCompileInputs.cache
+C:\Users\54926\source\repos\MementoPattern\MementoPattern\bin\Debug\MementoPattern.exe.config
+C:\Users\54926\source\repos\MementoPattern\MementoPattern\bin\Debug\MementoPattern.exe
+C:\Users\54926\source\repos\MementoPattern\MementoPattern\bin\Debug\MementoPattern.pdb
+C:\Users\54926\source\repos\MementoPattern\MementoPattern\obj\Debug\MementoPattern.exe
+C:\Users\54926\source\repos\MementoPattern\MementoPattern\obj\Debug\MementoPattern.pdb
